@@ -1,0 +1,642 @@
+/***
+Theme Name: Abacus Hotel
+Theme URI: 
+Description: Child Theme of hotel-melbourne. This is a Full Width Layout of the Parent Theme hotel-melbourne.Hotel-Melbourne is a responsive and fully customizable template for Luxury Hotel and resorts theme.The Theme has You can use it for your resorts, hotel or any type of site.Custom menus to choose the menu in Primary Location that is in Header area of the site. which is ideal for creating a hotel / resorts website.Hotel-Melbourne is Retina ready. We focused on usability across various devices, starting with smartphones. Hotel-Melbourne is a Cross-Browser Compatible theme that works on All leading web browsers.In header area and footer of the theme offers Social Media Links to add your Social Links here. we have provide header image setting on front page or index page in our theme you can change this image from theme customizer settings. translation ready and many more. We have provide dynamically hotel room booking facility in our pro theme, no needs to add any types of booking room plugin in your site client easily setup/customize room booking schedule for customers using our giving functionality. we have include user dashboard who is the booking room so user can see his booking on user dashboard after login. Everything of booking detail and user detail show in admin dashboard so admin can manage everything booking and user process. We have include all types of post formate in our theme like Audio post format, Video post format, Image gallery post format, Standard post format, Simple post format etc, you can create your own this types of multiple post format in your site. We have provide a awesome Home page template with multiple beautiful sections inside the Home page template like Awesome slider, Home portfolio/Room section, Home blog section etc. You make this template your front-page easily, creating your front page then please follow this instruction 1. Go on your creating page section --> create a new page --> go the down of publish button and see there Template drop down --> select Home Template from there and publish your page. 2. Go on Settings menu open it --> see inside the settings menu Reading menu tab and click on that --> see inside the reading page Front page displays and select A static page (select below) option and choose your Home template from drop-down menu. you can check our pro theme demo here:- http://asiathemes.asia/?item=hotel , our theme detail page:- https://asiathemes.com/hotel-details/ 
+Author: asiathemes
+Author URI: 
+Template: hotel-melbourne
+Version: 1.6
+Tags: black, white,green, custom-menu, right-sidebar,featured-image-header, sticky-post, theme-options, threaded-comments, featured-images, flexible-header, responsive-layout
+*/
+/*-----------------------------Default Css------------------------------------------ */
+.wrapper{ background:#fff;}
+p{color:#a3a3a3;}
+.white{color:#fff !important;}
+/*---------Header------------------*/
+.header-top-section {background: none repeat scroll #101010;}
+.info-top > span {color: #FFFFFF;}
+.info-top > span > i {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.18);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    color: #FFFFFF;
+}
+.book-btn{color: #FFFFFF !important; background-color:#F80;}
+.section-title h1 {color: #060c17;}
+.section-title  p {color: #929292;}
+.callout-title h1, .callout-title p {color: #eee !important;}
+/*-----Main button-----*/
+.main-btn {
+   background:#F80;
+   color:#fff;
+   box-shadow: 0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
+}
+.main-btn:before { background:#e08012;}
+.main-btn:hover, .main-btn:focus, .main-btn:active {color:#fff;}
+.main-btn2{	border:2px solid #fff !important;background:transparent !important;}
+.main-btn2:before {
+   border:2px solid #fff !important;
+   background:#ffffff !important;
+   color:#202020 !important
+}
+.button-3 { border: 2px solid #fff !important;}
+.main-btn2:hover, .main-btn2:focus, .main-btn2:active {color:#202020 !important;}
+/*----Main Menu Section---------------------------------*/
+.navbar-toggle {
+    background-color:#F80 !important;
+    border-color: #ffffff !important;
+}
+.navbar-toggle .icon-bar { background: #fff;}	
+.navbar-toggle:hover,
+.navbar-toggle:focus {background-color: #F80;}
+.navbar {
+	border-bottom: 1px solid rgba(255, 255, 255, 0.6);
+    border-top: 1px solid rgba(255, 255, 255, 0.6);
+    background-color:#ffffff;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
+}
+.navbar .navbar-nav > .active > a,
+.navbar .navbar-nav > .active > a:hover,
+.navbar .navbar-nav > .active > a:focus {
+    background-color: #F80;
+	color: #FFFFFF;
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
+}
+.navbar .navbar-nav > .open > a,
+.navbar .navbar-nav > .open > a:hover,
+.navbar .navbar-nav > .open > a:focus {
+	background-color: #F80;
+	color: #FFFFFF;
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
+}
+.navbar .navbar-nav > li > a:hover,
+.navbar .navbar-nav > li > a:focus {
+	background-color: #F80;
+	color: #FFFFFF;
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
+}
+.navbar .navbar-nav > li > a {color: #101010;}
+/*Dropdown Menus */
+.dropdown-menu > li > a {
+    color: #666666;
+	background-color: #F80;
+	border-bottom: 1px solid #eeeeee; transition: all 0.3s ease-in-out 0s; 
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  color: #ffffff;
+  background-color: #F80;
+}
+.navbar-nav > li > .dropdown-menu { background: #F80;}
+.navbar-nav .open .dropdown-menu > li > a, .navbar-nav .open .dropdown-menu .dropdown-header {
+    color: #FFFFFF;
+	border-bottom:1px dotted #b16209;
+}
+.home-blog .blog-title h2 > a:hover, .home-blog .blog-tags i:hover, .home-blog .blog-post-detail i:hover {
+    color: #F80 !important;
+}
+.dropdown-menu > li > a:hover {background-color: #d87b11 !important;color:#fff;}
+.dropdown-submenu:hover > .dropdown-menu{
+	 background: #F80;
+	 color:#fff;
+}
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {
+      background-color: #d87b11 !important;
+	 color:#fff;
+}
+.navbar .navbar-nav > .active > a, .navbar .navbar-nav > .active > a:hover, .navbar .navbar-nav > .active > a:focus {
+    background-color: #F80;
+    color: #FFFFFF;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+}
+/*------home-datepicker---------*/
+.table-condensed thead{color: #FFF; background:#F80;}
+.table-condensed tbody{color: #FFF;background:#10253C;}
+td.active{border:1px dotted #ccc; background-color:#F80;}
+/*--------Home Slider Section---------------------*/ 
+.slide-caption h1 {background: rgba(0,0,0,0.8);color: #F4F4F5;}
+.slide-caption p {background:rgba(255,255,255,0.8);color: #333333;}
+/*-----------Service Section--------------*/
+.boxes_title{ color: #303030;}
+.service-icon {background-color:#F80!important; }
+.service-icon a i{color:#fff;}
+.boxes_content {background:#fff;border:1px solid #ddd;}
+.boxes_content:hover { box-shadow: 1px -1px 11px -2px rgba(80, 57, 58, 0.55);}
+.boxes_content p{color:#929292;}
+/*------------------Footer-----------------------------------------------------------------*/
+
+.footer .overlay {background: rgba(9, 13, 17,0.9) none repeat scroll 0 0;}
+footer .links-social h3.title { color: #fff;}
+footer .links-social .link-groups .links ul li a {color: #fff;}
+footer .links-social .link-groups .links p {color: #CECECE;}
+footer .links-social .link-groups .links ul li i{color: #fff;}
+footer .links-social .newsletter .input-group {
+  border: 1px solid #343434;
+  background: #202020;
+}
+/*-----Copyright------------------*/
+.copyright {background: #081118 none repeat scroll 0 0;}
+.copyright a {color: #e4e4e4;}
+.tags-cloud li a { color: #fff !important; border: 1px solid #fff;}
+.tags-cloud li a:hover {
+  background-color:#EF3F57 !important;
+  border-color: #EF3F57 !important;
+}
+.social.big li a i {color:#eee;border:1px solid #eee;}
+.social.blog_social li a i {color:#555; border:1px solid #555!important;}
+.social.fill li a.facebook:hover i, .social li a.facebook:hover i {
+  background: #456098;
+  border-color: #456098;
+}
+.social.fill li a.twitter:hover i, .social li a.twitter:hover i {
+  background: #07a2dc;
+  border-color: #07a2dc;
+}
+.social.fill li a.googleplus:hover i, .social li a.googleplus:hover i {
+  border-color: #f8694d;
+  background: #f8694d;
+}
+.social.fill li a.linkedin:hover i, .social li a.linkedin:hover i {
+  border-color: #0077b5;
+  background: #0077b5;
+}
+/*--------Footer-top----------------------*/
+.footer-bottom  { background-color: #F80;}
+.footer-bottom .widget .widget-header h2.widget-title {color:#fff;}
+.widget .widget-header p.caption {color: #eee;}
+.footer-bottom .newsletter .input-group input {background-color: #fff;color: #46494a;}
+.footer-bottom .newsletter .input-group button {background: #343434;color: #717171;}
+.footer-widget-flicker span > a > img { border: 1px solid #ffffff;}
+.post-date {background-color: #F80;}
+.post-date span.date {color: #FFFFFF; }
+.post-date span.month { color: #FFFFFF; background: #696969 none repeat scroll 0 0;}
+.footer-blog-post h3 a { color: #ffffff;}
+.footer-blog-post span {color: #a8abb8;}
+/*--------Scroll Top---------*/
+.hc_scrollup {background:#ff961f;}
+.hc_scrollup i{color:#fff;}
+/*Callout Section-----------------------------------------------------------------------------------------------*/
+.callout-section {
+    background: url("../images/bg-2.jpg") no-repeat fixed 0 0 / cover rgba(0, 0, 0, 0);
+}
+.callout-section .overlay {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.7);
+}
+.callout-section h1 {color: #ffffff;}
+.callout-section p {color: #ffffff;}
+/*-------------Contact Page-------------------------------------------*/
+.contact-title{color:#555;}
+.contact-info { border-top: 1px dotted #ddd;}
+.contact-info h4 i {color: #F80;}
+.contact-info p {color: #939393;}
+/*-----------section-collout-------------------*/
+.callout-section {
+    background: url("../images/bg-2.jpg") no-repeat fixed 0 0 / cover rgba(0, 0, 0, 0);
+}
+.callout-section .overlay {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.7);
+}
+.white {color: #fff !important;}
+/*--------section-testmonial-----------------------*/
+.section-title h1 {color: #303030;}
+.section-title p { color: #707070;}
+.testimonial-wrapper {
+    background: url("../images/bg-2.jpg") no-repeat fixed 0 0 / cover rgba(0, 0, 0, 0);
+}
+.testimonial-wrapper .overlay {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.7);
+}
+.testimonial-inner {background-color:rgba(0,0,0,0.8);}
+.carousel-indicators li {
+    background-color: #F80!important;
+    border: 2px solid #fff!important;
+}
+.carousel-indicators li {
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid #fff;
+}
+.de_testi blockquote {background: rgba(0,0,0,0.6);}
+.testimonial p {color:#fff;}
+/*--------blog-pages-start--------------*/
+.blog-area {box-shadow: 0 4px 10px 0 rgba(0,0,0,.2),0 4px 12px 0 rgba(0,0,0,.14);}
+.blog-title h2 > a {color: #101010;}
+.blog-title h2 > a:hover {color: #F80;}
+.blog-post-detail {
+	color: #3E3E41;
+    border-top: 1px dotted #c5d1dc;
+    border-bottom: 1px dotted #c5d1dc;
+}
+.blog-post-detail a:hover {color: #F80;}
+.blog-post-detail a {color: #504D4D;}
+.blog-post-detail a > i {color: #101010;}
+.blog-tags i { color: #101010;}
+.blog-post-title blockquote {border: 1px solid #e8e8e8;}
+.blog-post-title blockquote:before {color: #d7d7d7;}
+.blog-post-title blockquote span {color: #d7d7d7;}
+.blog-post-title blockquote span small { color: #d7d7d7;}
+.blog-author {background-color: #ffffff;border: 1px solid #e9e9e9;}
+.blog-author h6 {color: #555;}
+.blog-author p {color: #64646d;}
+.blog-author img {border: 3px solid #fff;box-shadow: 0px 0px 1px #ccc;}
+/*--------------commet-----------*/
+.blog-post-headding h2 {color:#555;}
+h4.comment_detail_title{color:#555; }
+.course-area-blog-post {border-bottom:1px solid #e8e8e8;}
+.course-area-blog-post ul li { color: #F80;}
+.course-area-blog-post ul li a {color: #555;}
+.comment_detail { border: 1px dotted #ccc;}
+/*----------------sidebar-------------*/
+.blog-sidebar{box-shadow: 0 4px 10px 0 rgba(0,0,0,.2),0 4px 12px 0 rgba(0,0,0,.14);}
+.sm-widget-title h2 {
+    color:#fff;
+    background: #ff961f;
+    border: 1px solid #ff961f;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.14),0 2px 8px 0 rgba(0,0,0,.12);
+}
+.border-show-top{border-top:1px solid #F6F6F6;}
+ul.member-tabs li:hover{background-color:#DD140E;}
+/*------effect-blog-sidebar------------------*/
+ul.member-tabs li{
+	border-right: 1px solid #ddd;
+    background:#F80;
+    color:#fff;
+}
+ul.member-tabs li a{color:#fff}
+ul.member-tabs li:before{background-color:#333;}
+ul.member-tabs li.active, ul.member-tabs li:hover:before{ background-color:#333;}
+
+/*-------ffect-blog------------------*/
+.input-group > .form-control { background-color: transparent;}
+.btn-default {
+    color: #fff!important;
+    background-color: #303030!important;
+    border: 1px solid #303030!important;
+}
+ul.post-content li { border-bottom: 1px solid #EDEAEA;}
+ul.post-content li a { color: #707070;}
+ul.post-content li i { color: #F80;}
+ul.post-content li a span { color: #F80;}
+.post-content li span { color: #F80;}
+.sidebar-widget-tags a { border: 1px solid #F80;color: #202020;}
+.sidebar-widget-tags a:hover{
+    background-color: #ff961f;
+	color: #FFFFFF;
+}
+/*-----NEWS & EVENTS-------*/
+.sm-sidebar-post-area img {border: 4px solid #fff;box-shadow: 0px 0px 2px #ccc;}
+.sm-sidebar-post h4 a{color: #0f0f16;}
+
+/*------Page Title--------------------------------*/
+/* .page-title-section {
+    background: url("../images/page-header-bg.jpg") scroll 0 0 / cover;
+    box-shadow: 0 7px 10px -10px #000;
+} */
+.page-title-inner {background: rgba(0,0,0,0.7);}
+.about-t-cont{box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);}
+.page-header-title h1 {
+    color: #fff;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+}
+.breadcrumbs {background-color: transparent;}
+.breadcrumbs > li a { color: #ffffff;}
+.breadcrumbs > .active {color: #F80;}
+/*-----------Home Gallery--------------------------*/
+.home-gallery{box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);}
+/*---------Home Latest News------------------------------------*/
+.home-blog-section{ background-color: #f2f0f0;}
+.home-blog{background:#fff;}
+.blog-area .date-caption .date {
+    background-color: rgba(255, 150, 31, 0.8);
+    color: #fff;
+}
+/*-------Booking Section------------------*/
+.booking-section{background-color: #F80;}
+.text-box{ background: #fff !important;}
+.booking-section label{color:#fff;}
+
+/*-----------pagination----------------*/
+.blog-pagination a {background-color:#414141; color: #fff;    box-shadow: 0 4px 10px 0 rgba(0,0,0,.2),0 4px 12px 0 rgba(0,0,0,.14);}
+.blog-pagination a {background-color:#414141; color: #fff;    box-shadow: 0 4px 10px 0 rgba(0,0,0,.2),0 4px 12px 0 rgba(0,0,0,.14);}
+.blog-pagination a.active { background-color: #F80;color: #fff;}
+.blog-pagination a:hover{ background-color: #F80;color:#fff;}
+
+/*-----page-gallery-------------------*/
+.room-col h4 {color:#fff;}
+.room-col p {color:#F80;}
+.gallery_rs{background-color:transparent;}
+.room-tabs li.active > a, .room-tabs li > a:hover {
+     background-color:  #F80;
+	 color:#fff;
+}
+/*----gallery-effect-------------*/
+.room-tabs li > a{
+   background:#333;
+   color:#fff;
+   box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);
+}
+.room-tabs li > a:before {background-color:#F80;}
+.room-tabs li > a:hover, .room-tabs li > a:focus, .room-tabs li > a:active {color:#fff;}
+/*----Gallery Room Page-------*/
+.room-col  {box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);}
+.room-col .overly{
+    color: #FFFFFF;
+    background-color:#000;
+}
+.gallery-icon{ border: solid 1px #fff;color: #F5FFFF;}
+.gallery-icon:hover {
+	background-color:#F80;
+	border-color:#F80;
+}
+.gallery-icon:hover i{ color:#fff;}
+/*-------gallery-extender----------------*/
+.extended-top {box-shadow: 1px -1px 11px -2px rgba(80, 57, 58, 0.55);}
+.extended p { color: #A0A0A0;}
+.extended h3 a{color:#F80;}
+.extended h5 {color: #553a99;}
+.extended h6 {color: #fff;background: #333;}
+/*-----------extended-2------------------*/
+.extended-2{ box-shadow: 1px -1px 11px -2px rgba(80, 57, 58, 0.55);}
+.extended-2-name h4{ color:#F80; }
+/*---------------event-pages-----------------*/
+.event-containt {box-shadow: 0 4px 10px 0 rgba(0,0,0,.2),0 4px 12px 0 rgba(0,0,0,.14);}
+.event-cont-right h4 {color: #333;color: #626161; }
+.event-cont-right ul li a { color: #666;}
+.event-cont-right ul li a i { color: #F80;}
+/*--------------about page start---------------------*/
+.about-top-cont h2{ color:#F80; margin-top: 0px;}
+.about-top-cont h2 span{ color:#555;}
+.about-top-cont ul li{color:#555; border-bottom: 1px dotted #ddd;}
+.about-top-cont ul li i{ color:#F80;}
+.ablout-collaut-title{color: #555;}
+.main-collaut-about-inner{text-align:center; background: linear-gradient(20deg, #f06, #F80);}
+.main-collaut-about{   background: url("../images/bg-2.jpg") no-repeat fixed 0 0 / cover rgba(0, 0, 0, 0);}
+.main-collaut-about-inner h2 span{ color:#555; color:#fff;}
+.main-collaut-about-inner h2 {color:#fff;}
+.main-collaut-about-inner h4{color:#fff;}
+.panel-default > .panel-heading {
+    color:#fff!important;
+    background-color:#F80!important;
+	box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);
+}
+.about-tabs{
+	background: linear-gradient(5deg, orange, #F80);
+	box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);
+}
+.about-collaut-tabs li.active > a, .about-collaut-tabs li > a:hover {
+     background-color:  #F80;
+	 color:#fff;
+}
+.about-collaut-tabs li > a{
+   background:#333;
+   color:#fff;
+   box-shadow: 0px 0px 2px rgba(0,0,0,0.4);
+}
+.about-collaut-tabs li > a:before { background-color:#F80;}
+.about-collaut-tabs li > a:hover, .about-collaut-tabs li > a:focus, .about-collaut-tabs li > a:active { color:#fff;}
+.about_service h4 a{ color:#EEEDED;}.about_service p{ color:#fff;}
+.tab-extended p{color:#fff;}
+.tab-extended h4{ padding:20px;color:#fff;}
+.about-ourteam-name h4{color:#555;}
+/*--testimonal--*/
+.testimonal{background:url(../images/slide/slide3.jpg) no-repeat 0px 0px;background-size:cover;}
+.testi-top h3{ color: #FFFFFF;}
+.testimonial-left img{box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);}
+.testi-slider{background:rgba(0, 0, 0, 0.69);}
+.testimonial-right h5{color:#F80;}
+.testimonial-right h6{color:#fff;}
+.testimonial-right p{ color: #fff;}
+.callbacks_tabs a:after {border:2px solid #fff;}
+.callbacks_here a:after{background:#F80;}
+.callbacks_nav {background: orange url("../slide/slide3.jpg") no-repeat left top;}
+.wp-caption{background: #fff;border: 1px solid #f0f0f0;}
+.screen-reader-text:focus{
+	background-color: #f1f1f1;
+	box-shadow: 0 0 2px 2px rgba(0,0,0,0.6);
+}
+code{color: #F80!important;}
+blockquote{border-left: 5px solid #ff961f!important;}
+.qua_blockquote_section blockquote,blockquote{background-color: #F6F5F5;}
+.page-header-title h1 a{ color:#F80; }
+.blog-detail-description p a:hover { color:#F80; }
+.blog-detail-description th a:hover { color:#F80; }
+.blog-detail-description dd a:hover { color:#F80; }
+.blog-detail-description ul li a:hover { color:#F80; }
+.blog-detail-description ul li  { color:#a3a3a3; }
+/** Calendar style **/}
+.post-content div#calendar_wrap table#wp-calendar {
+	border: 1px solid #e9e9e9;
+	background-color: #fcfcfc;
+}
+.post-content div#calendar_wrap table > caption {color: #242526;}
+.post-content div#calendar_wrap table#wp-calendar thead > tr { background: #fcfcfc; }
+#calendar_wrap a { color:#ff961f; }
+.post-content div#calendar_wrap table > thead > tr > th {color: #F80; }
+.post-content div#calendar_wrap table > tfoot > tr > td {border: 1px solid #e9e9e9;}
+#calendar_wrap  a:hover { color: #FC6730;  }
+.post-content div#calendar_wrap table > tbody > tr > td { color: #707070;}
+.links .calendar_wrap table { color:#fff !important; }
+.links .calendar_wrap table caption{ color:#fff !important; }
+.links .calendar_wrap table td a{ color:#F80 !important; }
+
+/* Dummy COntent table */
+td, th {border: 1px solid #ccc !important;}
+.blog-detail-description ol li a:hover{ color:#F80 }
+.site-nav-previous, .nav-previous a{ color:#504D4D !important; }
+.site-nav-previous, .nav-previous a:hover{ color:#F80 !important; }
+.site-nav-next, .nav-next a { color:#504D4D !important; }
+.site-nav-next, .nav-next a:hover { color:#F80 !important; }
+/*------------------404 Page Css---------------------------------------------------*/
+.error-inner .text-center > i {color: #202020;}
+.error-inner h1 { color:#F80;}
+.error-inner h4 { color: #242526;}
+.error-inner p {color: #727272;}
+/*------------------End 404 Page Css-------------*/
+.site-description a{ color:#303030; }
+.site-description a:hover{ color:#F80;}
+.blog-pagination span {background-color: #F80;color: #fff;}
+.links > .tagcloud a{border: 1px solid #fff;color: #fff;}
+.links > .tagcloud a:hover{
+    border: 1px solid #F80;
+	background-color: #F80;
+}
+.links > .textwidget{color:#eee;}
+.links .cat-item  a:before { color: #F80;}
+footer .links-social .link-groups .links ul li a:hover {color: #F80;}
+.post-content > ul > li> a:before {color: #F80;}
+ul.post-content li a {color: #707070;}
+ul.post-content li a:hover {color:#F80;}
+ul.post-content li i {color: #ff961f;}
+ul.post-content li a:before{color:#F80;}
+.post-content  > ul > li> a:before {color:#F80;}
+.post-content > .tagcloud a {
+    border: 2px solid #ccc;
+    background-color: #fff;
+    color: #202020;
+}
+.post-content > .tagcloud a:hover{
+   border: 2px solid #ff961f;
+   background-color: #ff961f;
+   color: #FFFFFF;
+}
+ul.post-content li a span {color: #F80;}
+.sidebar-widget-tags a {
+	border: 1px solid #F80;
+    background-color: #F80;
+    color: #FFFFFF;
+}
+.sidebar-widget-tags a:hover{
+    background-color: #ff961f;
+	color: #FFFFFF;
+}
+ul.post-content li {border-bottom: 1px dotted #d6d2d2; }
+/*Cloud slide custom css*/
+.kr-bullet{
+    width:15px !important;
+	height:15px !important;
+	margin:5px 3px !important;
+    border-radius: 50%;
+    background-color: #ff961f!important;
+    border: 2px solid #fff!important;
+	background-image:none !important;
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
+}
+.kr-activated{
+    background-color: #ff961f!important;
+    border: 2px solid #ff961f!important;
+}
+.kr-nav-arrow{
+	background-color: #ff961f !important;
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
+    color:#fff !important;
+ }
+ .flex-direction-nav a {
+    background-color: #ff961f !important;
+	}
+.kr-nav-arrow:hover{
+	background-color:#343434 !important;
+	color:#fff !important;
+}
+.breadcrumbs >.active a {
+    color: #ff961f;
+}
+.kr-cloud h3 {
+    color: #ff961f !important;
+}
+
+/*----Menu fixed top on scroll page---------*/
+
+.top-breadcrumb>li+li:before {color: #fff;}
+ul.member-tabs li a {color:#fff !important;}
+
+/*----------booking form on modal------------------------------*/
+.modal-header{   
+    background: #ff961f;
+    color: #fff;
+}
+.banner-top {
+    background: rgba(221, 221, 221, 0.32);
+    border: 11px solid rgba(186, 165, 146, 0.18);
+}
+.banner-top h2 {color:#73B359;}
+.bnr-left p {color: #000;}
+.banner-top select {
+	color: #9E9E9E;
+	background: url(../images/arrow.png) no-repeat 95.5% 58% #fff;
+}
+.bnr-right input[type="text"] {color: #9E9E9E;}
+.banner-top .date {background: url(../images/date-icon.png) no-repeat 95.5% 45% #fff;}
+.banner-top .bnr-btn input[type=submit]{background: #ff961f; color: #fff;}
+.banner-top .bnr-btn input[type=submit]:hover{background:#403F45;color:#fff;}
+/*------Room Details----------------------------------------------------------------------------------*/
+#cloudslider2{background-color:none !important;}
+.room-detail_book {
+    background-color: #f1f1f1;
+	margin-bottom:15px;
+}
+.room-detail_book .room-detail_total h6 {color: #232323;}
+.room-detail_book .room-detail_total .price {color: #898989;}
+.room-detail_book .room-detail_total .price .amout {color: #232323;}
+.room-detail_book .room-detail_form { border-top: 1px solid #e4e4e4;}
+.room-detail_book .room-detail_form .hm-calendar-wrapper .hm-calendar {
+    background-color: #fff;
+    color: #898989;
+}
+.hm-calendar-wrapper i {color: #333;}
+.hm-select select{
+    background-color: #fff;
+    color: #898989;
+}
+.room-detail-ser .box i {
+	color:#ff961f;
+	border:2px solid #ff961f;
+}
+.room-detail-ser .box i:hover{
+  color:#fff;
+  border:2px solid #ff961f;
+  background-color:#ff961f;
+} 
+.room-detail_book .nav li a {
+    border-bottom: 1px solid #D8D8D8;
+    color: #000;
+    background: #EEE;
+}
+.room-detail_book .nav li a:hover{
+   background-color: #ff961f;
+   color:#fff;
+}
+#wp-calendar thead{
+   background-color: #ff961f;
+   color:#fff;
+}
+/* New style */
+.srb-content:after {
+    border: 5px solid #F80;
+}
+.srb-content {
+ background-color: rgba(255, 144, 54, 0.83);
+}
+.main-btn, .main-btn-blog {
+    background: #F80 !important;
+	}
+.main-btn:before, .main-btn-blog:before {
+    background: #ff961f;
+}
+.blog-title h2 > a:hover {
+    color: #fff;
+}
+.blog-post-detail a:hover {
+    color: #F80;
+}
+#wp-calendar th {
+    background-color: #F80;
+}
+footer .links-social .link-groups .links ul li a:before {
+    color: #F80;
+}
+.on #pbCloseBtn {
+    top: 92px !important;
+    right: -2px !important;
+}
+.post-meta h2:hover {
+    color: #000 !important;
+}
+.room-col .overly > span a:hover {
+    background-color: #F80;
+    border-color: #F80;
+}
+h3#reply-title a {
+    color: #F80;
+}
+h3#reply-title a:hover {
+    color: #000;
+}
+select#cat {
+    padding: 9px 16px;
+    border-radius: 5px;
+}
+.slide-caption h1 {
+    background: none;
+}
+select#archives-dropdown--1 {
+    padding: 7px 20px;
+    border-radius: 5px;
+}

@@ -1,0 +1,1088 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: melbourne\n"
+"POT-Creation-Date: 2017-07-18 23:31+0530\n"
+"PO-Revision-Date: 2017-07-18 23:31+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:14
+msgid "404"
+msgstr ""
+
+#: ../404.php:15
+msgid "Uups..! Page not found"
+msgstr ""
+
+#: ../404.php:16
+msgid "We are sorry, but the page you are looking for doesnt exist."
+msgstr ""
+
+#: ../404.php:17
+msgid "Go Back"
+msgstr ""
+
+#: ../asia_breadcrumbs.php:22 ../asia_breadcrumbs.php:33
+#: ../asia_breadcrumbs.php:36
+#: ../core-functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr ""
+
+#: ../asia_breadcrumbs.php:39
+msgid "Archive category"
+msgstr ""
+
+#: ../blog-content.php:34 ../post-archive-content.php:28 ../single.php:28
+#: ../template-parts/content-gallery.php:16
+#: ../template-parts/content-image.php:11
+#: ../template-parts/content-video.php:37 ../template-parts/content.php:22
+msgid "Posted by:"
+msgstr ""
+
+#: ../blog-content.php:40 ../template-parts/content-audio.php:37
+msgid "More"
+msgstr ""
+
+#: ../comments.php:7
+msgid "No COMMENTS"
+msgstr ""
+
+#: ../comments.php:7
+msgid "1 COMMENT"
+msgstr ""
+
+#: ../comments.php:21
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:22
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:26
+msgid "Comments Are Closed!!!"
+msgstr ""
+
+#: ../comments.php:39
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:42
+msgid "Email*"
+msgstr ""
+
+#: ../comments.php:50
+msgid "Comment..."
+msgstr ""
+
+#: ../comments.php:51
+msgid "Logged in as "
+msgstr ""
+
+#: ../comments.php:51
+msgid " Log out?"
+msgstr ""
+
+#: ../comments.php:52
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Submit Comments"
+msgstr ""
+
+#: ../comments.php:57
+msgid "LEAVE A REPLY"
+msgstr ""
+
+#: ../core-functions/comment-section/comment-function.php:8
+msgid "Reply"
+msgstr ""
+
+#: ../core-functions/comment-section/comment-function.php:17
+msgid "AT"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:10
+msgid "Theme Options Settings"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:13
+msgid "Home Slider Section"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:29
+#: ../core-functions/customizer/customizer-header.php:232
+msgid "Hide Home slider"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:38
+#: ../core-functions/customizer/customizer-header.php:96
+#: ../core-functions/customizer/customizer-header.php:154
+#: ../theme_default_data.php:7 ../theme_default_data.php:13
+#: ../theme_default_data.php:17
+msgid "Luxury hotel rooms"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:47
+msgid "Home slider one title"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:56
+#: ../core-functions/customizer/customizer-header.php:114
+#: ../core-functions/customizer/customizer-header.php:172
+msgid "Hotel rooms with awesome facility"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:65
+#: ../core-functions/customizer/customizer-header.php:123
+#: ../core-functions/customizer/customizer-header.php:181
+msgid "Home slider description one"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:84
+#: ../core-functions/customizer/customizer-header.php:255
+msgid "Upload Slider Image One"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:105
+#: ../core-functions/customizer/customizer-header.php:163
+msgid "Home slider two title"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:142
+#: ../core-functions/customizer/customizer-header.php:304
+msgid "Upload Slider Image Two"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:200
+msgid "Upload Slider Image three"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:212
+msgid "Featured Slider Settings"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:263
+#: ../core-functions/customizer/customizer-header.php:361
+#: ../core-functions/customizer/customizer-header.php:637
+#: ../theme_default_data.php:31 ../theme_default_data.php:35
+#: ../theme_default_data.php:39 ../theme_default_data.php:69
+#: ../theme_default_data.php:85
+msgid "melbourne Responsive"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:269
+msgid "Slider Image Title one :"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:276
+#: ../core-functions/customizer/customizer-header.php:325
+#: ../theme_default_data.php:32 ../theme_default_data.php:36
+#: ../theme_default_data.php:40
+msgid "Duis autem vel eum iriure dolor in hendrerit in vulputate."
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:282
+msgid "Slider Image  Description One:"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:312
+#: ../core-functions/customizer/customizer-header.php:746
+#: ../theme_default_data.php:77
+msgid "Awesome Layout"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:318
+msgid "Slider Image Title Two"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:331
+msgid "Slider Image two Description :"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:353
+msgid "Upload Slider Image Three"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:367
+msgid "Slider Image Title Three"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:380
+msgid "Slider Image three Description"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:389
+#: ../theme_default_data.php:42
+msgid "More Details!"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:396
+msgid "Slider Button Text"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:410
+msgid "Slider Button Link"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:427
+msgid "Open New tab/window"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:440
+#: ../core-functions/customizer/customizer-service.php:271
+msgid "https://asiathemes.com/hotel-details/"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:440
+msgid "Add more Slides take the Pro"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:449
+msgid "Custom Header Settings"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:468
+msgid "Hide Header Text"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:475
+#: ../theme_default_data.php:22
+msgid "(2)245 23 68"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:481
+msgid "Header Headline :"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:487
+msgid "example@gmail.com"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:493
+msgid "Header Text :"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:512
+msgid "Upload Title Strip bg Image"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:530
+#: ../core-functions/customizer/customizer-header.php:974
+msgid "Discover melbourne Pro"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:542
+msgid "2000"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:551
+msgid "Input slide show Speed"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:560
+msgid "Home Portfolio Settings"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:578
+msgid "Enable/Disabe Home Portfolio"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:586
+#: ../theme_default_data.php:65
+msgid "Recent Works"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:593
+msgid "Portfolio Title One :"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:601
+#: ../core-functions/customizer/customizer-header.php:1032
+#: ../theme_default_data.php:66 ../theme_default_data.php:95
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:607
+msgid "Portfolio Description One :"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:629
+msgid "Upload Portfolio Image One"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:643
+msgid "Portfolio Image One Title :"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:651
+#: ../theme_default_data.php:70
+msgid "199.00$/-"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:657
+msgid "Portfolio Price One :"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:665
+#: ../theme_default_data.php:71
+msgid "Day / Night"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:671
+msgid "Portfolio Time Section One:"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:679
+#: ../theme_default_data.php:72
+msgid "View Room"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:685
+msgid "Portfolio Button One Text :"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:699
+msgid "Portfolio Image and Button One URL :"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:716
+#: ../core-functions/customizer/customizer-header.php:830
+#: ../core-functions/customizer/customizer-header.php:943
+#: ../core-functions/customizer/customizer-header.php:1227
+#: ../core-functions/customizer/customizer-header.php:1265
+#: ../core-functions/customizer/customizer-header.php:1301
+#: ../core-functions/customizer/customizer-header.php:1337
+msgid "Open Link New tab/window"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:738
+msgid "Upload Portfolio Image Two"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:752
+msgid "Portfolio Image Two Title :"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:761
+#: ../theme_default_data.php:78
+msgid "500.00$/-"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:767
+msgid "Portfolio Price two :"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:776
+#: ../theme_default_data.php:79
+msgid "Night / Day"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:782
+msgid "Portfolio Time Section two:"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:791
+#: ../theme_default_data.php:80
+msgid "View Room 2"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:797
+msgid "Portfolio Button two Text :"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:813
+msgid "Portfolio Image and Button Two URL :"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:852
+msgid "Upload Portfolio Image Three"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:866
+msgid "Portfolio Image Three Title :"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:875
+#: ../theme_default_data.php:86
+msgid "10000.00$/-"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:881
+msgid "Portfolio Price three :"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:890
+#: ../theme_default_data.php:87
+msgid "Per Hour"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:896
+msgid "Portfolio Time Section three:"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:905
+#: ../theme_default_data.php:88
+msgid "View Room 3"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:911
+msgid "Portfolio Button three Text :"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:926
+msgid "Portfolio Image and Button Three URL :"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:957
+msgid "https://asiathemes.com/hoteldetail.php"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:957
+msgid "Add more portfolio take the Pro"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:986
+msgid "Home Latest Blog Posts Settings"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1008
+msgid "Hide Home Blog Posts Section"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1018
+#: ../theme_default_data.php:94
+msgid "Latest News"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1025
+msgid "Latest Blog Posts Section Heading title"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1039
+msgid "Latest News Description"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1058
+msgid "Select Number of Post"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1060
+msgid "2"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1060
+msgid "4"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1060
+msgid "6"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1060
+msgid "8"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1060
+msgid "10"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1060
+msgid "12"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1060
+msgid "14"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1060
+msgid "16"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1071
+msgid "Custom css"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1084
+msgid "Custom css snippet:"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1091
+msgid "Footer Customization"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1110
+msgid "Upload footer widget background image"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1120
+msgid "@ 2016 hotel-melbourne Theme "
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1126
+msgid "Footer Customization Text"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1134
+msgid "Developed By "
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1140
+msgid "Footer Customization Developed By"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1148
+#: ../theme_default_data.php:100
+msgid "Asia Themes "
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1154
+msgid "Theme Developed By Name"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1162
+msgid "https://asiathemes.com/"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1168
+msgid "Theme Developed By Link"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1188
+msgid "Hide Social icons"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1210
+msgid "Facebook URL"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1247
+msgid "Twitter URL"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1283
+msgid "Linkdin URL"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1319
+msgid "Google URL"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1343
+#: ../core-functions/customizer/customizer-header.php:1391
+#: ../core-functions/customizer/customizer-header.php:1425
+msgid "Upgrade to melbourne Premium"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1354
+msgid "melbourne Premium"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1397
+msgid "melbourne Premium - Features"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1399
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:43
+msgid "We have provide custom room booking facility in our primium theme"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1400
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:44
+msgid "You can create your room booking process easily without any plugin"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1401
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:45
+msgid ""
+"We are provide \"Cloud Slider\" With multiple animations features in our "
+"premium theme"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1402
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:46
+msgid "More then 13 Templates pages"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1403
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:47
+msgid "9 types Colours Schemes"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1404
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:48
+msgid "5 types Awesome Portfolio Page Templates"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1405
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:49
+msgid "Portfolio Page Templates with awesome Photo-box Slider"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1406
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:50
+msgid "One Latest GALLERY page portfolio template\"Coming Soon\""
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1407
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:59
+msgid "Ultimate Portfolio layout with Taxonomy Tab effect"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1408
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:51
+msgid "Awesome Team page Template"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1409
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:52
+msgid "Awesome Events page Template"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1410
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:55
+msgid "Awesome Service Pages Templates"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1411
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:56
+msgid "3 Types Of Blog Templates"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1412
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:57
+msgid "One Year Free Support"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1413
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:58
+msgid "Google Fonts"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1414
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:60
+msgid "Translation Ready"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1415
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:61
+msgid "Coming Soon Mode"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1416
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:62
+msgid "Responsive Design"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1417
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:63
+msgid "Patterns Background"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1418
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:64
+msgid "Full Width & Boxed Layout"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1419
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:65
+msgid "Woo-commerce Plug-in compatible is coming soon"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1420
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:66
+msgid "Awesome Shortcodes is coming soon "
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1427
+msgid "Enjoying With melbourne"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-header.php:1430
+#, php-format
+msgid ""
+"If you Like our Products , Please do Rate us on %sWordPress.org%s?  We'd "
+"really appreciate it!"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:8
+msgid "Service Settings"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:13
+msgid "Service Heading "
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:33
+msgid "Hide Home Service Section"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:42
+#: ../theme_default_data.php:48
+msgid "Why Choose Us"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:51
+msgid "Service Heading Title"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:61
+#: ../theme_default_data.php:49
+msgid "Lorem ipsum dolor sit amet."
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:70
+msgid "Service Heading Title Description"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:78
+msgid "Service Section one"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:92
+msgid "Service icon"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:96
+#: ../core-functions/customizer/customizer-service.php:159
+#: ../core-functions/customizer/customizer-service.php:222
+msgid ""
+"Add More <a href=\"http://fontawesome.io/icons/\" target=\"_blank"
+"\">FontAwesome Icons</a>"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:102
+#: ../theme_default_data.php:52
+msgid "Responsive"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:111
+msgid "Title one"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:120
+#: ../core-functions/customizer/customizer-service.php:184
+#: ../core-functions/customizer/customizer-service.php:248
+#: ../theme_default_data.php:53 ../theme_default_data.php:57
+#: ../theme_default_data.php:61
+msgid ""
+"Lorem Ipsum which looks reason able. The generated Lorem Ipsum is therefore "
+"always free.Lorem Ipsum which looks reason able. The generated Lorem Ipsum "
+"is therefore always free."
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:129
+msgid "Description One"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:137
+msgid "Service Section Two"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:156
+msgid "Icon Two Like: fa-group"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:166
+#: ../theme_default_data.php:56
+msgid "Print Design"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:175
+msgid "Title two"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:193
+msgid "Description two"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:200
+msgid "Service Section Three"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:219
+msgid "Icon three  Like: fa-group"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:230
+#: ../theme_default_data.php:60
+msgid "Easy to Customize"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:239
+msgid "Title three"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:257
+msgid "Description three"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:271
+msgid "Add more service get the Pro"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:279
+msgid "Add More service"
+msgstr ""
+
+#: ../core-functions/customizer/customizer-service.php:295
+msgid "Discover hotel-melbourne Pro"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:3
+msgid "Hotel Melbourne"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:3
+msgid "About Theme"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:24
+msgid "Hotel-Melbourne"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:24
+msgid "Premium"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:31
+msgid "Home Page"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:40
+msgid "Our Latest"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:40
+msgid "Features"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:41
+msgid "Get Our"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:41
+msgid "Premium Theme"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:70
+msgid "View Hotel-Melbourne Pro Demo"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:71
+msgid "Upgrade to Pro Version"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:82
+#, php-format
+msgid "Welcome to %1s %2s"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:83
+#, php-format
+msgid "Getting Started with %s"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:87
+#, php-format
+msgid ""
+"3. %s Theme Customizer for all settings of theme . Click <b style=\"color:"
+"#FF4136;\"> \"Customize Theme\" </b> or Click on given below strip <b style="
+"\"color:#FF4136;\">\"View Customizer\"</b> Button to open the Customizer now."
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:91
+msgid " Child Theme"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:98
+msgid ""
+"We have add all the option Settings inside the customiser, this is powerfull "
+"utility of WordPress, with the help of this you can create your site with "
+"live preview, ie customizer will provide you the current time preview. We "
+"have not changed any structure so you will still be able to access the "
+"previously configured data."
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:106
+msgid "View Customizer"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:115
+msgid "Hotel-Melbourne Latest Awesome pages"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:130
+msgid "Hotel-Melbourne Rooms page"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:146
+msgid "Hotel-Melbourne About page"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:154
+msgid "Our Other Awesome Premium Themes"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:159
+msgid "Hotel Melbourne Premium Theme"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:160
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:168
+msgid "More Details"
+msgstr ""
+
+#: ../core-functions/option-panel/hotel-melbourne-option-setting.php:167
+msgid "Becorp Premium Theme"
+msgstr ""
+
+#: ../core-functions/widgets/register-sidebar.php:6
+msgid "Sidebar Data"
+msgstr ""
+
+#: ../core-functions/widgets/register-sidebar.php:8
+msgid "The primary widget area"
+msgstr ""
+
+#: ../core-functions/widgets/register-sidebar.php:17
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../core-functions/widgets/register-sidebar.php:19
+msgid "footer widget area"
+msgstr ""
+
+#: ../functions.php:30
+msgid "Primary Menu"
+msgstr ""
+
+#: ../header.php:40
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../index.php:85 ../post-archive-content.php:54
+msgid "Ooops!!... Post Not Found"
+msgstr ""
+
+#: ../index.php:88 ../post-archive-content.php:57
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../page.php:38
+msgid ""
+"No description.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPlease update your profile."
+msgstr ""
+
+#: ../post-archive-content.php:29 ../single.php:29
+#: ../template-parts/content-gallery.php:17
+#: ../template-parts/content-image.php:12
+#: ../template-parts/content-video.php:38 ../template-parts/content.php:23
+msgid "Posted on:"
+msgstr ""
+
+#: ../post-archive-content.php:40 ../single.php:39
+#: ../template-parts/content-audio.php:35
+#: ../template-parts/content-image.php:23 ../template-parts/content.php:34
+msgid "Pages:"
+msgstr ""
+
+#: ../template-tags.php:12
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../template-tags.php:14
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../template-tags.php:16
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../template-tags.php:18
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../template-tags.php:20
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../template-tags.php:22
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../template-tags.php:24
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: ../template-tags.php:28
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#: ../template-tags.php:32
+msgid "Error 404  : Page Not Found"
+msgstr ""
+
+#: ../template-tags.php:147
+msgid "Post navigation"
+msgstr ""
+
+#: ../template-tags.php:157
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../template-tags.php:161
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../template-tags.php:181
+msgid "No description.Please update your profile."
+msgstr ""
+
+#: ../template-tags.php:200
+msgid "Read More"
+msgstr ""
+
+#: ../theme_default_data.php:8 ../theme_default_data.php:14
+#: ../theme_default_data.php:18
+msgid "Hotel room`s with awesome facility"
+msgstr ""
+
+#: ../theme_default_data.php:23
+msgid "exampl@gmail.com"
+msgstr ""
+
+#: ../theme_default_data.php:98
+msgid "@ 2016 hotel-melbourne Theme"
+msgstr ""
+
+#: ../theme_default_data.php:99
+msgid "Developed By"
+msgstr ""
+
+#: ../theme_default_data.php:101
+msgid "http://asiathemes.com/"
+msgstr ""
